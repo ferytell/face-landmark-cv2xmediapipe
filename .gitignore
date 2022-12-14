@@ -1,0 +1,19 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/ 
+
+# ignore node modules
+node_modules/
+
+
+.ipynb_checkpoints/
+
+
+videos/
+
+0.npy
+
+videos.npy
+whaterfer.ipynb
